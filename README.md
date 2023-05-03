@@ -14,7 +14,7 @@ The website is built using HTML, CSS, and JavaScript and is intended to be run i
 To run the Instagram follower website , follow these steps:
 <br>
 1. Clone the repository onto your local machine using Git.<br>
-git clone https://github.com/devankit57/Instagram-Followers-Bot-.git
+git clone https://github.com/devankit57/Data-Science-Club-Task-1.git
 
 2.Run index.html 
 
