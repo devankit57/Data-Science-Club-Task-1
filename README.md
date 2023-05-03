@@ -22,9 +22,9 @@ git clone https://github.com/devankit57/Data-Science-Club-Task-1.git
 <br>
 <b><h2>Application Features</h2></b>
 
-<br>
-The website includes the following features:
 
+The website includes the following features:
+<br>
 1.Gradient Interface <br>
 2.Animation <br>
 3.User Friendly <br>
