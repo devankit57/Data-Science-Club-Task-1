@@ -25,11 +25,11 @@ git clone https://github.com/devankit57/Data-Science-Club-Task-1.git
 <br>
 The website includes the following features:
 
-1.Gradient Interface
-2.Animation
-3.User Friendly
-4.Responsive design
-5.Smooth Motion
+1.Gradient Interface <br>
+2.Animation <br>
+3.User Friendly <br>
+4.Responsive design<br>
+5.Smooth Motion<br>
 
 <b><h2>Screenshot</h2></b>
 
